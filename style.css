@@ -1,0 +1,28 @@
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.header {
+    background-color: aqua;
+    height: 50px
+}
+
+.leftcolumn {
+    width: 20%;
+    float: left;
+    background-color: crimson
+}
+
+.rightcolumn {
+    width:80%;
+    float:left;
+    background-color: darksalmon
+}
+
+.footer {
+    background-color: blue;
+    float: left;
+    width: 100%
+}
